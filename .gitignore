@@ -1,0 +1,11 @@
+.idea
+.gradle
+.gradle
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
+build
+SpringSecurityDemo.iml
+out/
+SpringSecurityDemo.iml WebSite.iml
